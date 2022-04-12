@@ -1,0 +1,10 @@
+/*Palmer Gutke, Last Edited: 04/12/2022*/
+.stupid{
+    text-align: center;
+}
+
+.bold{font-weight: bold;}
+.italics{font-style: italic;}
+.normal{
+    font-style: normal;
+    font-weight: normal;}

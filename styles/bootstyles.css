@@ -1,0 +1,97 @@
+/*Palmer Gutke, Last Edited: 04/12/2022*/
+
+.common{
+    position: absolute;
+}
+.nav{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.footer{
+    position: relative;
+    /*bottom: 0px;*/
+    height: 100px;
+    left: 0px;
+    right: 0px;
+    margin: 0px;
+    font-size: 8;
+    color: grey;
+    text-align: center;
+    background-color: white;
+}
+.mainbody{
+    top: 2in;
+    left: 150px;
+}
+
+.navlinks{
+    text-align: right;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgb(109, 107, 107);
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.nmelink{
+    text-align: left;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgb(109, 107, 107);
+}
+
+a:visited{
+    font-size: large;
+    color: rgb(109, 107, 107);
+    font-style: normal;
+}
+.flink{
+    color: rgb(49, 49, 49);
+    text-decoration: none;
+    font-size: 24px;
+}
+.homebg{background-image: url('../assets/images/mountain-bg.png');
+    background-size: cover;}
+.caption{
+    color: white;
+}
+
+.topleft{
+    top: 2.1in;
+    left:5px;
+    width: 140px;
+    padding-right: 5px;
+    text-align: center;
+
+}
+.topright{
+    top:2.1in;
+    right:5px;
+    width: 140px;
+    padding-left: 5px;
+    text-align: center;
+    color:rgb(109, 107, 107);
+}
+.bottomleft{
+    top: 7in;
+    left: 5px;
+    width: 140px;
+    text-align: center;
+}
+.bottomright{
+    top:7in;
+    right: 5px;
+    width:140px;
+    text-align: center;
+}
+
+.stupid{
+    text-align: center;
+}
